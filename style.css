@@ -3,7 +3,7 @@ h1 {text-align: center;background-color: crimson;color: black;}
 h3 {text-align: justify;color: crimson;}
 b {color: blue; font-size: 18px;}
 I {color: black; font-size: 18px;}
-reader, footer {background-color: aliceblue; color: blue; text-align: center; font-size: 20px;}
+header, footer {background-color: aliceblue; color: blue; text-align: center; font-size: 20px;}
 main {background-color: black;}
 .PRIMEIROPARAGRAFO {text-align: justify; font-size: 18px; border: black solid 2px; padding: 10px; margin: 10px}
 .SEGUNDOPARAGRAFO { text-align: justify; font-size: 18px; border: black solid 2px; padding: 10px; margin: 10px}
